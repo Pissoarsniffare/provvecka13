@@ -40,7 +40,7 @@ nav > ul {
     gap: 1.2rem;
   }
   
-  main > h2 {
+  main > h3 {
     align-content: center;
     align-items: center;
     display: flex;
@@ -52,7 +52,7 @@ nav > ul {
   }
 
 img {
-    max-width: 30%;
+    
 }
 
 body > nav {
