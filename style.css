@@ -40,20 +40,13 @@ nav > ul {
     gap: 1.2rem;
   }
   
-  main > h3 {
+  main > h2 {
     align-content: center;
     align-items: center;
     display: flex;
     gap: 1.2rem;
   }
   
-  main > h3 > img {
-    max-width: 24px;
-  }
-
-img {
-    
-}
 
 body > nav {
     display: flex;
